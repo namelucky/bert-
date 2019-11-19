@@ -8,4 +8,3 @@ python run_classifier.py --task_name=mytask --do_predict=true --data_dir=data --
 移入本项目文件夹中，即可运行。
 
 
-csdn：https://blog.csdn.net/imissyoualwalys/article/details/103038159
